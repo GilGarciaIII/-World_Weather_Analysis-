@@ -29,6 +29,22 @@ Collecting data on rainfall,snowfall as well as the tempature with in 3 hour tim
 
 ![Regress_fig2](https://user-images.githubusercontent.com/88943257/163281303-e82149ae-58c3-45f4-a91d-77207817d662.png)
 
+## Latitude vs Wind speed
 
 
+![Fig4](https://user-images.githubusercontent.com/88943257/163282131-944b95e8-e484-458d-baa2-a10cff6e0136.png)
+
+
+![Regress_fig7](https://user-images.githubusercontent.com/88943257/163282169-8d21239e-4742-4a6d-8c93-5dcd41327ac2.png)
+
+![Regress_fig8](https://user-images.githubusercontent.com/88943257/163282385-d70987f0-d78b-4902-99bd-699d552d12de.png)
+
+## Latitude vs Humidity 
+
+![Fig2](https://user-images.githubusercontent.com/88943257/163282442-a3a7ebb9-22ee-4477-92c7-cdcaafaf4b6d.png)
+
+![Regress_fig3](https://user-images.githubusercontent.com/88943257/163282466-14f39d1b-c698-41e2-98b4-9df145dda264.png)
+
+
+![Regress_fig4](https://user-images.githubusercontent.com/88943257/163282653-f2d0fb17-b779-416c-a4c4-1e63ee436e64.png)
 

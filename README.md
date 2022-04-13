@@ -8,4 +8,6 @@ Use google maps API and OpenWeather API to create heatmaps and pop-up location m
 ## Challenge 
 Collecting data on rainfall,snowfall as well as the tempature with in 3 hour time frames so that customers on vacation can filter the data to help meet their needs. As far as planing vacation on certian tempature ranges or if it is raning or snowing. Creating a Visual for the customers on Google Map to help them with the different cities and directions to that city. 
 
-[Weather_Database.ipynb](/Weather_Database.ipynb)
+## Latitude & Tempature 
+![Fig1.png](/weather_data/Fig1.png) ![Northern Humisphere](/weather_data/Regress_fig1.png) ![Southern Humisphere](/weather_data/Regress_fig2.png)
+
